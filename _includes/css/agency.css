@@ -4,8 +4,6 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-@import url(https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic);
-
 body {
     overflow-x: hidden;
     font-family: "Lora", "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -214,7 +212,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .nav li a {
     text-transform: uppercase;
-    font-family: Lora, Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
     color: #{{ site.color.secondary-light }};
