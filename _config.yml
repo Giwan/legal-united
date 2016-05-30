@@ -11,6 +11,7 @@ color:
   primary: 4682B4
   secondary: b0732e
   secondary-dark: 333
+  secondary-light: FFF
 
 # Team names, titles and social links
 people:
