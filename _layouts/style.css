@@ -1,6 +1,3 @@
 {% include css/bootstrap.min.css %}
 {% include css/agency.css %}
-
-section#services {
-  padding-bottom: 0px;
-}
+{% include css/custom.css %}

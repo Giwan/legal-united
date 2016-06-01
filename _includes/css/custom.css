@@ -1,0 +1,7 @@
+body.page-content {
+	
+}
+
+body.page-content > div {
+		margin: 2em 1em;
+	}
