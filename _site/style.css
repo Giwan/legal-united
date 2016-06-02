@@ -45,6 +45,7 @@ a.active {
 
 a {
     color: #4682B4;
+    transition: all 0.35s ease-in-out;
 }
 
 a:hover,
@@ -52,6 +53,7 @@ a:focus,
 a:active,
 a.active {
     color: #b0732e;
+    transition: all 0.35s ease-in-out;
 }
 
 h1,
@@ -83,7 +85,9 @@ h6 {
     font-family: Lora, Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #fff;
+    margin-bottom: 3em;
     background-color: #4682B4;
+    transition: all 0.35s ease-in-out;
 }
 
 .btn-primary:hover,
@@ -91,9 +95,10 @@ h6 {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    border-color: #4682B4;
-    color: #fff;
+    border-color: #b0732e;
+    color: #333;
     background-color: #b0732e;
+    transition: all 0.35s ease-in-out;
 }
 
 .btn-primary:active,
@@ -136,6 +141,7 @@ fieldset[disabled] .btn-primary.active {
     font-weight: 700;
     color: #fff;
     background-color: #4682B4;
+    transition: all 0.35s ease-in-out;
 }
 
 .btn-xl:hover,
@@ -146,6 +152,7 @@ fieldset[disabled] .btn-primary.active {
     border-color: #b0732e;
     color: #fff;
     background-color: #b0732e;
+    transition: all 0.35s ease-in-out;
 }
 
 .btn-xl:active,
@@ -171,6 +178,7 @@ fieldset[disabled] .btn-xl:active,
 fieldset[disabled] .btn-xl.active {
     border-color: #4682B4;
     background-color: #4682B4;
+    transition: all 0.35s ease-in-out;
 }
 
 .btn-xl .badge {

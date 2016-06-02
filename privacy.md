@@ -3,7 +3,7 @@ layout: page
 title: Privacy
 ---
 
-# Privacy! It's important. 
+# Privacy! It's important.
 
 Excepturi sunt esse vel omnis. Blanditiis minima quibusdam inventore distinctio ducimus. Qui ratione aperiam aut voluptas quia quia repellendus corporis.
 Aperiam et minima ex corporis. Placeat illo cupiditate dolorum voluptatibus laborum. Quibusdam dolore eveniet deleniti ut. Ab quam laudantium repellendus consequatur quisquam velit repellat aut. Temporibus dignissimos molestiae dignissimos aspernatur suscipit.
