@@ -78,7 +78,7 @@ h6 {
     font-family: Lora, Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #fff;
-    margin-bottom: 3em;
+    margin-bottom: -1.5em;
     /*background-color: #{{ site.color.primary }};*/
     background-color: #{{ site.color.secondary }};
     border-color: #{{ site.color.secondary }};
@@ -295,15 +295,17 @@ header {
 
 header .intro-text {
     padding-top: 100px;
-    padding-bottom: 50px;
+    padding-bottom: 0px;
 }
 
 header .intro-text .intro-lead-in {
-    margin-bottom: 25px;
+    margin-bottom: 1em;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
+    margin-top: 3em;
+    text-shadow: 1px 1px 5px #{{ site.color.secondary-dark }};
 }
 
 header .intro-text .intro-heading {
@@ -318,7 +320,7 @@ header .intro-text .intro-heading {
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
-        padding-bottom: 200px;
+        padding-bottom: 0px;
     }
 
     header .intro-text .intro-lead-in {
